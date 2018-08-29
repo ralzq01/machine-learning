@@ -1,6 +1,6 @@
 ## About This Repo
 
-This repo is showing basic machine learning techniques
+This repo is showing basic machine learning demos
 
 Under this repo, you can find:
 
@@ -14,4 +14,4 @@ Under this repo, you can find:
 
 * Graph Convolutional Network
 
-    * `supports` denotes graph nodes' normalized adj.
+    * `supports` denotes graph normalized adjacency sparse matrix.
