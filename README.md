@@ -11,3 +11,7 @@ Under this repo, you can find:
 * Reinforcement Learning examples:
 
     * Q-Learning for playing treasure-finding games (implemented by gym)
+
+* Graph Convolutional Network
+
+    * `supports` denotes graph nodes' features.
