@@ -14,4 +14,4 @@ Under this repo, you can find:
 
 * Graph Convolutional Network
 
-    * `supports` denotes graph nodes' features.
+    * `supports` denotes graph nodes' normalized adj.
